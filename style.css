@@ -22,11 +22,11 @@
 }
 .top{
     background-color: #F0FFF0;
-    height:576px ;
+    
 }
-.col-7 img{
-    height: 346px;
-    width: 554px;
+.image1{
+    height:auto;
+    width:322px;
 }
 h5{
     color:#FD511A;
@@ -41,4 +41,13 @@ h1{
 }
 p{
     color: gray;
+}
+.container{
+    padding-bottom: 40px;
+}
+.col-md-7{
+    padding-left: 70px;
+}
+.any_schedule{
+    color:#21B573
 }
