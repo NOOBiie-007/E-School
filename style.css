@@ -51,3 +51,23 @@ p{
 .any_schedule{
     color:#21B573
 }
+.col-md-3 img{
+    width:77px;
+    height: 85px;
+    
+}
+.cat{
+    background-color: #F8FFFB;
+    box-shadow: 10px 20px 30px lightgray;
+    border-radius: 10px;
+    width:270px;
+    height: 270px;
+    padding-top: 40px;
+    margin-top: 60px;
+}
+.catb{
+    margin-top: 30px;
+}
+.adj{
+    margin-left: 80px;
+}
