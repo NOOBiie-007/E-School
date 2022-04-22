@@ -1,0 +1,44 @@
+.nav-item{
+    padding: 30px 40px;
+}
+.navbar-brand img{
+    width: 198.07px;
+    height: 59px;
+}
+.sign{
+    background-color: #21B573;
+    border-radius: 33px;
+    color:white;
+    padding: 10px 10px 10px 10px;
+}
+.button{
+    background-color: #21B573;
+    color: white;
+    border-radius: 33px;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-weight: 400;
+
+}
+.top{
+    background-color: #F0FFF0;
+    height:576px ;
+}
+.col-7 img{
+    height: 346px;
+    width: 554px;
+}
+h5{
+    color:#FD511A;
+
+}
+h1{
+    font-size: 60px;
+}
+.banner{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+p{
+    color: gray;
+}
