@@ -22,7 +22,7 @@
 }
 .top{
     background-color: #F0FFF0;
-    width:100%;
+    min-width: 1080px;
     
 }
 .image1{
