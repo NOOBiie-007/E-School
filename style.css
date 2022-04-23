@@ -68,13 +68,13 @@ p{
     margin-top: 30px;
 }
 .adj{
-    margin-left: 80px;
+    margin-left: 25px;
 }
 .card{
     height: 483px;
     width: 370px;
     border-radius: 18px;
-    margin-left: 50px;
+    margin-left: 20px;
     border: none;
     box-shadow: 15px 15px 30px lightgray;
 }
