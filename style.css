@@ -25,8 +25,7 @@
     
 }
 .image1{
-    height:auto;
-    width:322px;
+    width: 600px;
 }
 .ready{
     color:#FD511A;
@@ -46,7 +45,7 @@ p{
     padding-bottom: 40px;
 }
 .col-md-7{
-    padding-left: 70px;
+    padding-left: 40px;
 }
 .any_schedule{
     color:#21B573
